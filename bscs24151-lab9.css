@@ -2,3 +2,11 @@
     width: 500;
     height: 600;
 }
+ol {
+    color: brown;
+    text-decoration: underline;
+}
+ul{
+    color:brown;
+    text-decoration: underline;
+}
